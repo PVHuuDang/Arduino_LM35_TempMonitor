@@ -1,1 +1,1 @@
-# Arduino_LM35_TempMonitor
+# Arduino LM35 Temperature Monitor
