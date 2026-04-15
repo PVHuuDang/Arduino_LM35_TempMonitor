@@ -31,29 +31,17 @@ Hệ thống mô phỏng việc thu thập dữ liệu từ nhiều cảm biến
 ## Cấu trúc thư mục
 
 Arduino_LM35_TempMonitor/
-│
 ├── firmware/
 │   └── LM35_TempReader/
 │       └── LM35_TempReader.ino
-│
 ├── pc_app/
-│   └── (ứng dụng đọc Serial / Python / Node.js)
-│
 ├── docs/
-│   └── (tài liệu, hình mạch, báo cáo)
-│
 ├── libs/
-│   └── (thư viện bổ sung)
-│
 ├── simulation/
-│   └── (file mô phỏng Proteus / Wokwi / khác)
-│
-└── .git/
-|
-├── README.md
-└── .gitignore
+└── README.md
+
 ## Thành viên nhóm
 
-Nguyễn Văn A: xử lý cảm biến và đọc dữ liệu
-Trần Thị B: xử lý Git merge conflict và tối ưu code
-Lê Văn C: viết tài liệu và README
+1. Nguyễn Văn A: xử lý cảm biến và đọc dữ liệu
+2. Trần Thị B: xử lý Git merge conflict và tối ưu code
+3. Lê Văn C: viết tài liệu và README
