@@ -45,3 +45,6 @@ Arduino_LM35_TempMonitor/
 1. Nguyễn Văn A: xử lý cảm biến và đọc dữ liệu
 2. Trần Thị B: xử lý Git merge conflict và tối ưu code
 3. Lê Văn C: viết tài liệu và README
+
+## Tac gia
+[Pham Van Huu Dang ](https://PVHuuDang.github.io) - Sinh vien PTIT
